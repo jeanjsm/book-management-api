@@ -1,7 +1,7 @@
 package com.jeanjsm.bookmanagementapi.provider.mysql.book
 
 import com.jeanjsm.bookmanagementapi.entities.BookEntity
-import com.jeanjsm.bookmanagementapi.provider.GetAllBookProvider
+import com.jeanjsm.bookmanagementapi.provider.book.GetAllBookProvider
 import com.jeanjsm.bookmanagementapi.provider.mysql.book.repository.BookRepository
 import com.jeanjsm.bookmanagementapi.provider.mysql.book.repository.toEntity
 import org.springframework.data.domain.PageRequest

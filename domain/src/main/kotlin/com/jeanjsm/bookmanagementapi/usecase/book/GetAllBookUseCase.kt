@@ -1,7 +1,7 @@
 package com.jeanjsm.bookmanagementapi.usecase.book
 
 import com.jeanjsm.bookmanagementapi.entities.BookEntity
-import com.jeanjsm.bookmanagementapi.provider.GetAllBookProvider
+import com.jeanjsm.bookmanagementapi.provider.book.GetAllBookProvider
 import jakarta.inject.Named
 
 @Named

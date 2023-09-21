@@ -1,4 +1,4 @@
-package com.jeanjsm.bookmanagementapi.provider
+package com.jeanjsm.bookmanagementapi.provider.book
 
 import com.jeanjsm.bookmanagementapi.entities.BookEntity
 
