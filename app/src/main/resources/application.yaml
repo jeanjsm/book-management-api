@@ -2,9 +2,9 @@ spring:
   application:
     name: book-management-api
   datasource:
-    url: jdbc:mysql://144.22.206.71:3306/bookmanagementdb
-    username: bookmanagement
-    password: Bookmanagement123
+    url: { url }
+    username: { username }
+    password: { password }
   jpa:
     properties:
       hibernate:
